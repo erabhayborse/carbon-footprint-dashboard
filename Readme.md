@@ -57,22 +57,6 @@ The application provides:
 
 ---
 
-## App Screenshots
-
-### Dashboard Interface
-![Dashboard](figures/dashboard_header.png)
-
-### Input Sliders
-![Inputs](figures/input_sliders.png)
-
-### Emission Breakdown Chart
-![Chart](figures/emission_chart.png)
-
-### Result Output
-![Result](figures/result_output.png)
-
----
-
 ## Repository Structure
 
 ```
