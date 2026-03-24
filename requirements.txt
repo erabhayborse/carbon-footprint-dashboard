@@ -1,0 +1,3 @@
+Full safe version
+a)streamlit
+b)pandas
