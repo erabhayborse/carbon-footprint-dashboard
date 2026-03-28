@@ -14,7 +14,7 @@ This project translates everyday activities — travel, electricity use, flights
 The goal is to make carbon accounting accessible to non-technical users and help them understand which part of their lifestyle contributes most to their emissions.
 
 ---
-## 📸 Application Preview
+##  Application Preview
 
 ### Dashboard Overview
 ![Dashboard](Dashboard.JPG)
@@ -23,7 +23,8 @@ The goal is to make carbon accounting accessible to non-technical users and help
 ![Inputs](Input_Sliders.JPG)
 
 ### Emission Breakdown
-![Chart](Emission_Chart.JPG)
+![Chart](Emmision_Breakdown_Chart.JPG)
+
 ---
 
 ## How It Works
@@ -55,7 +56,6 @@ CO2 emissions = activity data × emission factor
 Transport and electricity values are scaled to annual figures before calculation. Diet uses fixed annual estimates based on food consumption research.
 
 ---
-
 ## Output
 
 The application provides:
@@ -65,6 +65,10 @@ The application provides:
 - Bar chart showing emission breakdown by category
 - Identification of the highest contributing source
 - Personalised reduction recommendations based on inputs
+
+---
+### Result
+![Results](Results.JPG)
 
 ---
 
