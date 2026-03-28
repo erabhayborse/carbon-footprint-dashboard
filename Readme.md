@@ -14,6 +14,17 @@ This project translates everyday activities — travel, electricity use, flights
 The goal is to make carbon accounting accessible to non-technical users and help them understand which part of their lifestyle contributes most to their emissions.
 
 ---
+## 📸 Application Preview
+
+### Dashboard Overview
+![Dashboard](Dashboard.JPG)
+
+### Input Section
+![Inputs](Input_Sliders.JPG)
+
+### Emission Breakdown
+![Chart](Emission_Chart.JPG)
+---
 
 ## How It Works
 
